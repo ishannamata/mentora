@@ -204,6 +204,7 @@ Database is hosted on **Neon** (serverless PostgreSQL).
 This project is for portfolio and academic purposes.
 
 ## UI Screenshots
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/997b3166-3aae-4f56-9c38-71b8a375beec" />
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fcaf45e2-8354-4bb6-9de4-9c1b82ad3924" />
 <img width="1918" height="1123" alt="image" src="https://github.com/user-attachments/assets/aa0e7e05-3fa6-4d78-8ed5-6362cc249873" />
 <img width="1918" height="1123" alt="image" src="https://github.com/user-attachments/assets/3974dddf-8642-4c53-bd11-5a49d7da1f1f" />

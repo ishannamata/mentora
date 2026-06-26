@@ -43,7 +43,7 @@ It combines a custom Machine Learning pipeline (TF-IDF + logistic regression) wi
 | PostgreSQL | Primary relational database |
 | Prisma ORM | Type-safe database client & migrations |
 | Inngest | Background job processing & event-driven workflows |
-| Claude (Anthropic) | LLM for chatbot, interview, resume, and quiz generation |
+| Gemini | LLM for chatbot, interview, resume, and quiz generation |
 
 ### Machine Learning Service (separate repo)
 | Tech | Purpose |
@@ -69,8 +69,8 @@ It combines a custom Machine Learning pipeline (TF-IDF + logistic regression) wi
 └──────┬────────────────┬────────────────┬────────────────┘
        │                │                │
 ┌──────▼──────┐  ┌──────▼──────┐  ┌──────▼──────┐
-│ PostgreSQL  │  │  Claude LLM │  │  ML Service │
-│ + Prisma    │  │  (Anthropic)│  │  (Python)   │
+│ PostgreSQL  │  │  Gemini LLM │  │  ML Service │
+│ + Prisma    │  │             │  │  (Python)   │
 └─────────────┘  └─────────────┘  └─────────────┘
 ```
 

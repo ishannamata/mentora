@@ -9,9 +9,9 @@
 
 ## What is Mentora?
 
-Mentora is a full-stack AI career coaching platform that helps users identify skill gaps, practice interviews, build resumes, and get personalized career guidance — all in one place.
+Mentora is a full-stack AI career coaching platform that helps users identify skill gaps, practice interviews, build resumes, and get personalized career guidance — all integrated in one.
 
-It combines a custom Machine Learning pipeline (TF-IDF + logistic regression) with LLM integration (Claude) to deliver recommendations that are both data-driven and conversationally intelligent.
+It combines a custom Machine Learning pipeline (TF-IDF + logistic regression) with LLM integration (Gemini) to deliver recommendations that are both data-driven and conversationally intelligent.
 
 ---
 
